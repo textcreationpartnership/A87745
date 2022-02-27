@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to a most untrue relation made and set forth in print by certaine vintners, in excuse of their wine project.</title>
+            <author>Kilvert, Richard, d. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87745</idno>
+            <idno type="STC">Wing K478</idno>
+            <idno type="STC">Thomason E175_10</idno>
+            <idno type="STC">ESTC R14837</idno>
+            <idno type="EEBO-CITATION">99859744</idno>
+            <idno type="PROQUEST">99859744</idno>
+            <idno type="VID">111840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111840)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E175[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to a most untrue relation made and set forth in print by certaine vintners, in excuse of their wine project.</title>
+                  <author>Kilvert, Richard, d. 1649.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Richard Kilvert, on trial for his part in a questionable deal with the vintner's company concerning the wine monopoly, wrote this reply in his own defence. --Cf. DNB.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kilvert, Richard, d. 1649 --  Early works to 1800.</term>
+               <term>Wine and wine making --  England --  Early works to 1800.</term>
+               <term>Vintners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111840:1"/>
+            <pb facs="tcp:111840:1" rendition="simple:additions"/>
+            <p>A REPLY TO A MOST untrue Relation made and ſet forth in Print, By <hi>Certaine</hi> VINTNERS, in excuſe of their Wine PROIECT.</p>
+            <p>Printed in the Yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="reply">
+            <pb facs="tcp:111840:2"/>
+            <pb n="3" facs="tcp:111840:2"/>
+            <head>A Reply to a moſt un<g ref="char:EOLhyphen"/>true Relation made, and ſet forth in Print, by certaine VINTNERS, <hi>in excuſe of their Wine</hi> PROIECT.</head>
+            <argument>
+               <p>To contend with men that deny their owne pub<g ref="char:EOLhyphen"/>like Acts, is a hard taske; yet for better mani<g ref="char:EOLhyphen"/>feſtation of truth to the Honourable Houſe of Commons, its neceſſary that ſomewhat more be ſaid, touching the Wine <hi>PROIECT.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been already ſet forth, and plainely ſhewed, even by the or<g ref="char:EOLhyphen"/>ders of <hi>Vintners</hi> Hall. That the retailing <hi>Vintners</hi> of <hi>London</hi> con<g ref="char:EOLhyphen"/>trived that Project at their com<g ref="char:EOLhyphen"/>mon Hall in <hi>November,</hi> 1637.</p>
+            <p>That they proſecuted it, and petitioned for it;
+<pb n="4" facs="tcp:111840:3"/>And as it appeares by the Project it ſelfe, that none but the <hi>Vintners</hi> could have contrived it. So the truth is, the covetouſneſſe of the <hi>Vintners,</hi> with their deſire to Monopolize the ſole retai<g ref="char:EOLhyphen"/>ling of Wines, and their pride and malice to the Coopers put them upon it.</p>
+            <p>Their covetouſneſſe; For they propounded, and would have no leſſe then 4. <abbr>l.</abbr> a Tunne on all <hi>French,</hi> and 8. <abbr>l.</abbr> on <hi>Spaniſh</hi> Wines, to pay the King 40. <abbr>s.</abbr> reſtitution of 6000. <abbr>l.</abbr> liberty to dreſſe meat, ſell Sugar, Beere, and Tobacco: reſtraint of Wine Licenſes in or neere the Citie, inlarge<g ref="char:EOLhyphen"/>ment of their Charter, and other great benefits: and all this for bare 40. <abbr>s.</abbr> a Tun to the King.</p>
+            <p>Their pride and malice to the Coopers. They would not have a Cooper to live, but as their ſervant, the poore Coopers muſt not ſell a rund<g ref="char:EOLhyphen"/>let of Wine, they muſt be ſuppreſſed, to advance their Lords &amp; Maſters, the <hi>London</hi> Vintners, that ſo they might Monopolize to themſelves the re<g ref="char:EOLhyphen"/>taile of Wines both in Citie and Country. That was the Vintnersend by this Project, for by it they tied up the Marchant from ſelling to Coo<g ref="char:EOLhyphen"/>pers or Countrey Vintners.</p>
+            <p>And albeit the truth of theſe particulars ap<g ref="char:EOLhyphen"/>peares clearely by the Project it ſelfe, and the Vintners orders: yet the Vintners are not aſha<g ref="char:EOLhyphen"/>med to affirme, and that in Print too, in the front of their untrue relation.</p>
+            <pb n="5" facs="tcp:111840:3"/>
+            <list>
+               <item>
+                  <hi>Firſt, that the generalitie of Retailers diſliked this Project.</hi>
+               </item>
+               <item>
+                  <hi>Secondly, that whatſoever they did in it, was by compulſion.</hi>
+               </item>
+               <item>
+                  <hi>Thirdly, that they received great and inſupporta<g ref="char:EOLhyphen"/>ble loſſe by it.</hi>
+               </item>
+            </list>
+            <p>What truth is in theſe men? Doth it not plain<g ref="char:EOLhyphen"/>ly appeare by their owne Order of the 22. of <hi>November,</hi> 1637. That the generality of Retai<g ref="char:EOLhyphen"/>lers contrived it at their Hall, and have they not all taken the benefit of it, <hi>viz.</hi> a penny and two pence in the quart?</p>
+            <p>Is it then to be beleeved that they diſliked it?</p>
+            <p>And what can be more manifeſt, then that it was the deſigne and worke of the generality. For the whole Comittee could not, much leſſe could Alderman <hi>Abel,</hi> or any particular man, conclude any thing in it without the conſent and direction of the generalitie, as appeares fully by the Or<g ref="char:EOLhyphen"/>ders of the ſixt, the 22. and the 27. of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> 1637.</p>
+            <p>The Comittee was from time to time to give account of their proceedings to the Gene<g ref="char:EOLhyphen"/>ralitie, and were ſo limited by the orders of the generality.</p>
+            <p>Doth it not appeare by their foreſaid Order of the 27. of <hi>November,</hi> that they petitioned for it?</p>
+            <p>Did they not ratifie and confirme it at a gene<g ref="char:EOLhyphen"/>rall
+<pb n="6" facs="tcp:111840:4"/>Court, as by their Order of the ſeventh of <hi>February</hi> 1637. and by eight ſubſequent Orders made at their common Hall?</p>
+            <p>How vaine then is their pretence of threats, or compulſion.</p>
+            <p>As to the third, That they received great, and almoſt, inſupportable loſſe by it.</p>
+            <p>Doe not all men know that from <hi>February</hi> 1637. to <hi>December</hi> 1640. the Vintners have ta<g ref="char:EOLhyphen"/>ken on all <hi>French</hi> Wines 4. <abbr>l.</abbr> a Tun, and from <hi>February</hi> 1637. to this day, being above three yeares and an halfe, on <hi>Spaniſh</hi> Wines 8. pound and 12. pound a Tunne, above the ſet price, and not paid the 40. ſhillings to the King, one full yeare and halfe.</p>
+            <p>All theſe exceſſive gaines they have exacted by colour of this their Project.</p>
+            <p>Ought they not then to bee aſhamed to ſet forth in Print, that they have received great, and inſupportable loſſe by it?</p>
+            <p>But what falſhood will not theſe Vint<g ref="char:EOLhyphen"/>ners affirme for truth, and what truth will they not deny and outface, who ſay, they have great loſſe by this Project, when their gaine is ſo no<g ref="char:EOLhyphen"/>torious, and deny their owne Orders which they made at their common Hall?</p>
+            <p>Their Orders which they would now denie, have been ſeverall times proved at the Comit<g ref="char:EOLhyphen"/>tee, and out of thoſe their owne Orders (againſt which no modeſt or honeſt men would contend)
+<pb n="7" facs="tcp:111840:4"/>they have upon tenne ſeverall hearings, beene foure times voted by the Comittee, to bee the Contrivers and Proſecutors of this Project, and Delinquents, and they have been twice ſo vo<g ref="char:EOLhyphen"/>ted by the whole houſe of Commons in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Mercurij</hi> 21. <hi>Iulij</hi> 1641.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Reſolved upon the Queſtion.</hi>
+                        </p>
+                        <p>THat the Company of Vintners by their owne offer of 40. ſhillings <hi>per</hi> Tunne up<g ref="char:EOLhyphen"/>on Wines to his Majeſtie, and demands of liber<g ref="char:EOLhyphen"/>tie to raiſe a penny <hi>per</hi> Quart upon <hi>French,</hi> and two pence a Quart upon <hi>Spaniſh</hi> Wines, and pro<g ref="char:EOLhyphen"/>ſecuting the buſineſſe, as appeareth by their own Orders, are Contrivers of the ſaid unlawfull Impoſitions, and are Delinquents.</p>
+                        <p>
+                           <hi>Reſolved upon the Queſtion.</hi>
+                        </p>
+                        <p>THat all thoſe Vintners that were parties to the Indentures, Sharers and Contrivers of the ſaid Impoſition of 40. ſhillings <hi>per</hi> Tunne, and one penny <hi>per</hi> Quart are Delinquents, and
+<pb n="8" facs="tcp:111840:5"/>ought to give ſatisfaction to the Common<g ref="char:EOLhyphen"/>wealth.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>In theſe Votes there can bee no error: For it appeares clearely by the Vintners Booke of Or<g ref="char:EOLhyphen"/>ders of their Hall, That they offerd the 40. ſhil<g ref="char:EOLhyphen"/>lings a Tunne, and demanded libertie to raiſe a penny, and two pence a quart, and proſecuted the buſineſſe; An infallible proofe againſt them, in which there can be no corruption, and againſt which no exception can be taken; their owne Booke condemnes them.</p>
+            <p>And the Vintners and ſeven Counſellors for them were heard by the Comittee, above tenne ſeverall daies with much patience; and upon the teſtimony of their owne booke of Orders they were on the 17. of <hi>Iune,</hi> 1641. Voted by the Comittee to be the Projectors, Contrivers and Proſecutors of the ſaid Project, and Delinquents; and that Uote was foure times confirmed by the Comittee.</p>
+            <p>Theſe Uotes ſtanding good againſt the Uint<g ref="char:EOLhyphen"/>ners, as they are moſt iuſt, Maſter <hi>Kilvert</hi> is much comforted in a ſtrong Faith, That he ſhall ſhew juſt cauſe to the Honourable Houſe of Co<g ref="char:EOLhyphen"/>mons to alter their Uotes againſt him.</p>
+            <p>Firſt, in regard that ſince that Uote againſt him, he hath made a materiall part of the truth to appeare, which then he could not ſo cleerely manifeſt.</p>
+            <pb n="9" facs="tcp:111840:5"/>
+            <p>Secondly, for that he is ready now to make the whole truth of the buſineſſe, fully and clear<g ref="char:EOLhyphen"/>ly to appeare, both touching the creation and ex<g ref="char:EOLhyphen"/>ecution thereof. And in truth, it is another thing then it appeared to the Comittee to be, when he was Uoted.</p>
+            <p>The part of the truth, which he hath alrea<g ref="char:EOLhyphen"/>dy made to appeare, is:</p>
+            <p>That the retailing Vintners contrived this Project amongſt themſelves, at their common Hall, in <hi>November,</hi> 1637. Petitioned for it, and proſecuted it.</p>
+            <p>That which he is now ready to prove, is</p>
+            <p>Firſt, that he was not preſent at, or privie to, the framing or contriving of the ſaid Project; nor came, or ſate amongſt the Vintners in their Aſſembles at their Hall, or elſewhere, untill they had contrived, and concluded upon the ſaid Pro<g ref="char:EOLhyphen"/>ject, and that the chiefe Vintners preſent at thoſe meetings, have often acknowledged aſmuch.</p>
+            <p>Secondly, That a principall witneſſe exami<g ref="char:EOLhyphen"/>ned againſt him, when he was voted by the Co<g ref="char:EOLhyphen"/>mittee, hath ſince his examination acknowledg<g ref="char:EOLhyphen"/>ed (as the truth is) that hee was miſtaken in the maine point of his teſtimony.</p>
+            <p>Thirdly, that all thoſe that teſtified againſt him, when he was Voted by the Comittee are parties to the Project, and Delinquents; <hi>viz.</hi>
+            </p>
+            <pb n="10" facs="tcp:111840:6"/>
+            <q>
+               <l>Parties to the Originall contriving the Project.</l>
+               <l>Parties to the Indentures of creation, of the Pro<g ref="char:EOLhyphen"/>ject:</l>
+            </q>
+            <p>
+               <hi>And</hi>
+            </p>
+            <q>
+               <l>Parties that tooke benefit by the Project.</l>
+            </q>
+            <p>
+               <hi>So that they all ſpoke in excuſe of them<g ref="char:EOLhyphen"/>ſelves.</hi>
+            </p>
+            <p>Theſe particulars he could not ſo fully prove before the Vote, being much ſtreightned in time by Maſter <hi>Hearne,</hi> of Counſell for Alderman <hi>Abell,</hi> who ſpent almoſt two daies in recrimina<g ref="char:EOLhyphen"/>tion of Maſter <hi>Kilvert,</hi> againſt truth, and the di<g ref="char:EOLhyphen"/>rection of his clyent, and leſt not <hi>Kilvert</hi> two houres for his defence.</p>
+            <p>And ſithence theſe particulars are ſo materi<g ref="char:EOLhyphen"/>all, and neceſſary to maſter <hi>Kilverts</hi> juſt defence, he cannot doubt of the goodneſſe of the Houſe of Commons (ſo great lovers of truth) that they will be pleaſed to admit him to prove the truth.</p>
+            <p>Laſtly, touching the Execution, It appeares fully by a Letter written, and ſent to Alderman <hi>Abel</hi> and maſter <hi>Rowland Wilſon,</hi> by <hi>George Grif<g ref="char:EOLhyphen"/>fith,</hi> and confeſſed by <hi>Griffith</hi> before the Com<g ref="char:EOLhyphen"/>mittee, that the ſaid <hi>Griffith</hi> projected and deſign<g ref="char:EOLhyphen"/>ned the manner of Execution of this Project, and he accordingly put it in Evecution, and had 200. pound a yeare Fee for the ſame.</p>
+            <p>The Letter and Inſtructions follow in theſe very words.</p>
+            <div type="letter">
+               <pb n="11" facs="tcp:111840:6"/>
+               <opener>
+                  <salute>Worſhipfull,</salute>
+               </opener>
+               <p>LAtely meeting with ſome Judiciall men who were conferring about your preſent Contract, ſome ſaid it would be a profitable buſineſſe, if well managed; and confeſſed that none ſo fit to manage it as our Compa<g ref="char:EOLhyphen"/>ny: I was bold to reply, that I was aſ<g ref="char:EOLhyphen"/>ſured it would be well managed, and that we had as able men, both wett and dry Vint<g ref="char:EOLhyphen"/>ners in our Company, to contrive and doe it as any otherwhere could bee ſelected: and therefore to make good my word, and that the event ſhould proove it, I being a mem<g ref="char:EOLhyphen"/>ber of our Company, and one of the Aſsi<g ref="char:EOLhyphen"/>ſtance, I hold it my dutie to note any thing that will any way advance the ſaid Com<g ref="char:EOLhyphen"/>panies honour and profit: and therefore I preſent the above written unto your Worſhips, which I acknowledge to be meane to your abi<g ref="char:EOLhyphen"/>lities and grave experience; Yet if you pleaſe but to peruſe it, and to make uſe of any thing therein fit for your better remem<g ref="char:EOLhyphen"/>brance, I ſhall take it as a favour: and ſo to God Almighty recommending you, and
+<pb n="12" facs="tcp:111840:7"/>all your Worſhips good endeavours. I ſhall ever reſt</p>
+               <closer>
+                  <signed>
+                     <hi>Your aſſured faithfull brother and Servant,</hi> George Griffith.</signed>
+                  <dateline>
+                     <date>
+                        <hi>13.</hi> Feb. <hi>1637.</hi>
+                     </date>
+                  </dateline> 
+                  <salute>To his reſpected good friends the Worſhipful, WILLIAM ADELL Alderman, ROVVLAND WILSON <abbr>Eſquire</abbr>, and to all the reſt of the Vintners ſelected to be Con<g ref="char:EOLhyphen"/>tractors with his Majeſty, theſe preſent.</salute>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="13" facs="tcp:111840:7"/>
+               <head>To the Worſhipfull Alderman ABELL, and the reſt of the Contractors.</head>
+               <head type="sub">Advice for the better advance of the Worſhipfull Company of Vintners Contract, now with his gracious Majeſtie, and Licenſes with the Right Honourable, <hi>GEORGE,</hi> Lord <hi>GO<g ref="char:EOLhyphen"/>RING.</hi>
+               </head>
+               <p>THe Contractors to have a ſpeciall care to obtain as large a grant, as can be granted, and in particular.</p>
+               <p n="1">1. That the two Articles firſt propoſed, be abſolutely confirmed; eſpecially, thoſe that concerne the libertie, fredome, and good of the Retailing Vinmer, as is beſt knowne to your Worſhips.</p>
+               <p n="2">2. That in the Grant a <hi>provizo</hi> bee made, That his Majeſtie and his Heires ſhall put no fur<g ref="char:EOLhyphen"/>ther Cuſtome, Impoſt, or charge on Wines, then is at the making of the Grant.</p>
+               <pb n="14" facs="tcp:111840:8"/>
+               <p n="3">3. That defalcation be made in caſe of wars with <hi>France</hi> or <hi>Spaine.</hi>
+               </p>
+               <p n="4">4. That defalcation bee made in caſe of plague, or great mortalitie.</p>
+               <p n="5">5. That defalcation bee made in caſe any Marchant or Retailer ſhould refuſe to pay the 40. ſhillings <hi>per</hi> Tunne, and that the Contractors uſing all poſſible meanes, and cannot by Law or power compell paiment, in ſuch caſe fit his Ma<g ref="char:EOLhyphen"/>jeſtie make defalcation.</p>
+               <p n="6">6. That his Majeſtie grant an ample Com<g ref="char:EOLhyphen"/>miſſion to ſome eminent Nobleman, and to the Contractors and their Deputies, to take and leavie the 40. ſhillings <hi>per</hi> Tunne, and for the future, that the Marchant regiſter their ſales in thirtie dayes, or in default that hee pay the 40. ſhillings <hi>per</hi> Tunne, for ſuch Wines as by the Cuſtom-houſe, or otherwiſe, it ſhall appeare he hath received.</p>
+               <p n="7">7. That before the day of the commence<g ref="char:EOLhyphen"/>ment of the Contract, that a generall ſearch be made in all Sellars of Wines, and regiſter be ta<g ref="char:EOLhyphen"/>ken of them, that the Contractors may receive the 40. ſhillings <hi>per</hi> Tunne.</p>
+               <p n="8">8. That his Majeſties rent be made pay<g ref="char:EOLhyphen"/>able
+<pb n="15" facs="tcp:111840:8"/>once, or at moſt, but twice in one yeare.</p>
+               <p n="9">9. That the Contract bee made for at leaſt 14. yeares, and if that will not be granted, then to be well adviſed, whether you will take the Lord <hi>Gorings</hi> Licenſes from him or his Majeſtie, if you can procure 14. yeares from his Majeſtie, then all to be taken from his ſaid Majeſtie; o<g ref="char:EOLhyphen"/>therwiſe, under your favour, I hold it fitteſt you take the Licenſes, and continue it from the Lord <hi>Goring,</hi> and my reaſon is, that if from his Maje<g ref="char:EOLhyphen"/>ſtie you have but a ſhort time, and the Contract by your Induſtry made profitable, others may Farme it heereafter from you, which if you have the Licenſes, they will not be ſo ready, or ſo a<g ref="char:EOLhyphen"/>ble to doe, and ſo by that meanes you may be af<g ref="char:EOLhyphen"/>ſured to have it for 14. yeares.</p>
+               <p n="10">10 That whereas Sir <hi>Iohn Rainenam</hi> K. hath the Licenſes for <hi>Cornwall</hi> and <hi>Devon.</hi> it is very fit for you likewiſe to take it in, which may bee eaſily done, and hope on reaſonable tearmes, and to move him to grant it, you may adviſe, that all Marchants that importeth Wines into thoſe parts, muſt pay 40. ſhillings <hi>per</hi> Tunne, and that you will not grant the Retailers in thoſe parts, to ſell for a penny a Quart above the rates, ex<g ref="char:EOLhyphen"/>cept they will come in to you.</p>
+               <p n="11">11. That you have his Majeſties Proclama<g ref="char:EOLhyphen"/>tion,
+<pb n="16" facs="tcp:111840:9"/>ſignifying his gracious pleaſure for pai<g ref="char:EOLhyphen"/>ment of the 40. ſhillings per Tun, &amp;c. as Coun<g ref="char:EOLhyphen"/>ſell ſhall adviſe.</p>
+               <div type="part">
+                  <head>When your Contract is finiſhed, then theſe fol<g ref="char:EOLhyphen"/>lowing Officers to be had, and a convenient houſe for meetings.</head>
+                  <p n="1">1 A Receiver generall, to account on oath for all he receiveth, and payeth out, and he to give good ſecuritie for what value he ſhall be intruſted with.</p>
+                  <p n="2">2. A Secretarie.</p>
+                  <p n="3">3. An able Accomptant.</p>
+                  <p n="4">4. A Beadle.</p>
+                  <p n="5">5. A meſſenger to attend the Commiſſio<g ref="char:EOLhyphen"/>ners.</p>
+                  <p n="6">6. Such other Officers (as one at the Cu<g ref="char:EOLhyphen"/>ſtom-houſe to take the entries of all Wines) as you ſhall hereafter finde neceſſary, for the a<g ref="char:EOLhyphen"/>gitating of the buſineſſe in perſon abroad in the Countrey.</p>
+                  <p>Now, as by the Orders of Vintners Hall it appeares, and is ſo Voted, that this Project was contrived by the Company of Vintners: So it alſo appeares by this Letter of <hi>Griffith,</hi> (who was one of the principall Contrivers) That it was deſigned for the advancement of the Com<g ref="char:EOLhyphen"/>pany,
+<pb n="17" facs="tcp:111840:9"/>and the benefit of the generality: and that <hi>Griffith</hi> was the principall Projector and contri<g ref="char:EOLhyphen"/>ver in the execution.</p>
+                  <p>On the ſeventh of <hi>February,</hi> 1637. at a general Court at Vintners Hall, the Project was confir<g ref="char:EOLhyphen"/>med by the Generality, and the Contractors named; and ſix daies after, <hi>viz.</hi> the 13. of <hi>Fe<g ref="char:EOLhyphen"/>bruary, Griffith</hi> writes to the two principall pil<g ref="char:EOLhyphen"/>lars of the Company, and directs the forme and manner of execution, for the beſt advancement of the Company.</p>
+                  <p>So that now this whole buſineſſe being found to be the worke of the Company, both in the creation and execution, Maſter <hi>Kilvert</hi> is moſt confident of the juſtice of the Honorable Houſe of Commons, That they will not puniſh him for the Vintners offence, there being no Petiti<g ref="char:EOLhyphen"/>on, or complaint againſt him, other then the re<g ref="char:EOLhyphen"/>crimination of the Counſell of Alderman <hi>Abell,</hi> and the Vintners.</p>
+                  <p>The truth of the fact touching <hi>Kilvert,</hi> now manifeſtly appearing otherwiſe, then when he was Voted; It can no way derogate from the Honour and Juſtice of the Honourable Houſe of Commons to recall their Uote.</p>
+                  <p>Which hee moſt humbly prayes, they will vouchſafe to doe in their wonted goodneſſe, the rather, ſithence by his endeavour and ſole charge a great ſumme of money will bee juſtly raiſed
+<pb n="18" facs="tcp:111840:10"/>from the ſeverall Vintners, that have unjuſtly taken it from the Subject, by colour of this their Project.</p>
+                  <p>For the gaine that the Vintners have made by this Project, It hath beene already ſhewen and proved before the Comittee, to amount to above two hundred thouſand pounds.</p>
+               </div>
+               <div type="part">
+                  <head>This their gaine hath riſen three ſeverall waies.</head>
+                  <p>Firſt, by beating downe the Marchants pri<g ref="char:EOLhyphen"/>ces, by which alone they have gained, in theſe three laſt yeares, above ſixtie thouſand pounds: this was proved before the Comittee, by Mar<g ref="char:EOLhyphen"/>chants of worth, and appeares by the Marchants prices of the ſales of their Wines, certified by order of the Comittee.</p>
+                  <p>Secondly, By the penny a Quart on al <hi>French,</hi> and two pence a Quart on <hi>Spaniſh</hi> Wines, Wher<g ref="char:EOLhyphen"/>by they have gained above one hundred and thirtie thouſand pounds, more then they have paid to his Majeſtie, as by account of the Wines imported in that time, and ſold to Vintners, may appeare.</p>
+                  <p>Thirdly, By their ſuper-Project upon <hi>Spaniſh</hi> Wines, in ſelling <hi>Malligaes</hi> and <hi>Sherries</hi> at the price of <hi>Canarie,</hi> which is 12. l. a Tunne above
+<pb n="19" facs="tcp:111840:10"/>the ſet price, And by this particular, they have gained thirty thouſand pounds ſince <hi>February,</hi> 1637. when they firſt tooke the benefit of their Project.</p>
+                  <p>Their pretenſes of Undergage, Lees, Le<g ref="char:EOLhyphen"/>cage, long keeping, decay on their hands, and bad debts, are ſleight Maskes for their falſe<g ref="char:EOLhyphen"/>hood.</p>
+               </div>
+               <div type="part">
+                  <head>Touching Vnder-gage.</head>
+                  <p>It was proved before the Comittee, by the te<g ref="char:EOLhyphen"/>ſtimony of worthy Marchants, Captaine <hi>Lang<g ref="char:EOLhyphen"/>ham,</hi> Captaine <hi>Rowden,</hi> and others,</p>
+                  <p>That all <hi>Gaſcoigne</hi> Wines are full gage, and overgage, and thoſe ſmaller Wines which want of gage are cheap Wines, 3.4.5. nay, 6. l. a Tun under the ſet price; and no veſſell of <hi>French</hi> Wines wants the value of 20. ſhillings a Tun in gage.</p>
+                  <p>And for Lees, Lecage, and long keeping, they have little relation to the penny a quart, for the charge and inconvenience to the Vintners was the ſame upon 6. pence a quart, as it is upon 7. pence at moſt, within the ſeventh part of 40. ſhillings a Tunne.</p>
+                  <p>For the decay of Wines on their hands: Their
+<pb n="20" facs="tcp:111840:11"/>Wines were as ſubject to that before.</p>
+                  <p>But its eſpecially provided by the Contract; that they are not to pay, neither did ever Vintner pay for any decaied Wines.</p>
+                  <p>Bad debts is as abſurd a pretence as the reſt, for the penny and two pence a quart occaſions no bad debts.</p>
+                  <p>How deceitfull then are the allegations and pretenſes of the Vintners? when no word of truth is found in any one of them.</p>
+                  <p>And what can bee ſaid in their defence. That have ſtill kept this Project on foot to this day, in all parts of their owne private gaine, and the Subjects greevance, and that in con<g ref="char:EOLhyphen"/>tempt of the Votes of the Honourable Houſe of Commons.</p>
+                  <p>For although they excuſe it by the dearth of <hi>French</hi> Wines this laſt Vintage, yet all men know, that <hi>Spaniſh</hi> Wines have not beene ſo cheape for many yeares, And the Vintners (notwithſtanding the Vote) have continued the two pence a quart on thoſe Wines being 8. pound a Tunne to this day, and paid the King nothing.</p>
+                  <pb n="11" facs="tcp:111840:11"/>
+                  <p>And it is a knowne truth that they gaine 6. pence in every 14. pence for a quart of <hi>Malliga</hi> and <hi>Sherry,</hi> and 5. pence in every quart of <hi>Canary.</hi>
+                  </p>
+                  <p>And they have this yeare drawne three quarts of <hi>Spaniſh</hi> for one of <hi>French</hi> Wine.</p>
+                  <p>And it appeares by the ſeve<g ref="char:EOLhyphen"/>rall Entries in the Cuſtome-houſe at <hi>London,</hi> onely, That from <hi>Michaelmas</hi> 1639. to <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> 164<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. being but two yeares, there was imported of <hi>Spaniſh</hi> Wines, 19901. Tuns.</p>
+                  <p>The Lecage whereof being taken out at 15. <hi>per cent.</hi> there remaines in neate Wine, full 16915. Tuns.</p>
+                  <p>Which at 4. pound a Tun, comes to 67660. pound.</p>
+                  <p>And thus for <hi>Spaniſh</hi> Wines onely two yeares at 4. pound a Tunne, and the Vintners, for al<g ref="char:EOLhyphen"/>moſt 4. yeares have taken from the Subjects for thoſe Wines, 8. pound, and 12. pound a Tunne above the price.</p>
+                  <pb n="22" facs="tcp:111840:12"/>
+                  <p>Now whether the Vintners that were parties to the Indentures, Sharers, and Contrivers of the ſaid Impoſition of 40. ſhillings a Tunne, and a penny and two pence a quart, and that have ſo long ta<g ref="char:EOLhyphen"/>ken the benefit of it, much exceeding the ſumme of two hundred thouſand pounds ſhall make reſtitution, or ſatisfaction to the Common wealth, according to the ſaid Votes of the Honourable Houſe of Commons, of the 21. of <hi>Iuly</hi> laſt, and in what proportion, is ſolely in the wiſdome of the High Court of Parlia<g ref="char:EOLhyphen"/>ment to determine.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111840:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
